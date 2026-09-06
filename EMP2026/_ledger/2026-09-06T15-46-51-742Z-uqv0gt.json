@@ -1,0 +1,17 @@
+{
+  "event": "sync",
+  "synced_at": "2026-09-06T15:46:52Z",
+  "student_id": "SUAT24000212",
+  "display_name": "易宏林",
+  "emp_version": "0.2.8.9",
+  "github_login": "honglingyi78-stack",
+  "github_repo": "honglingyi78-stack/Bioinformatics_homework_Yihongling",
+  "github_branch": "main",
+  "week_dir": "Week_02",
+  "track": "microbiome_16s",
+  "assignment_type": "weekly",
+  "assignment_id": "week_02",
+  "assignment_title": "第2周 · 质控与预处理",
+  "git_path": "EMP2026/Week_02/microbiome_16s/weekly/runs/2026-09-06T15-46-51-742Z-uqv0gt",
+  "run_id": "2026-09-06T15-46-51-742Z-uqv0gt"
+}
