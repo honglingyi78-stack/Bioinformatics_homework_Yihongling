@@ -1,0 +1,42 @@
+{
+  "success": true,
+  "user_id": "ii8RWEg1izz2P8IfE4DJYoxu",
+  "events": [
+    {
+      "event_type": "api_call",
+      "path": "/llm/openrouter_verified",
+      "method": "GET",
+      "total_ms": 77,
+      "backend_ms": 6.8,
+      "case_id": null,
+      "experiment": null,
+      "user_id": "ii8RWEg1izz2P8IfE4DJYoxu",
+      "role": "local",
+      "ts": "2026-09-21T21:06:39.411+0800"
+    },
+    {
+      "event_type": "api_call",
+      "path": "/clinical/vars_standalone/ii8RWEg1izz2P8IfE4DJYoxu",
+      "method": "GET",
+      "total_ms": 43,
+      "backend_ms": 9.5,
+      "case_id": null,
+      "experiment": null,
+      "user_id": "ii8RWEg1izz2P8IfE4DJYoxu",
+      "role": "local",
+      "ts": "2026-09-21T21:06:39.779+0800"
+    },
+    {
+      "event_type": "api_call",
+      "path": "/prepare/snapshots/ii8RWEg1izz2P8IfE4DJYoxu/rnaseq_week5",
+      "method": "GET",
+      "total_ms": 66,
+      "backend_ms": 3.8,
+      "case_id": null,
+      "experiment": "rnaseq_week5",
+      "user_id": "ii8RWEg1izz2P8IfE4DJYoxu",
+      "role": "local",
+      "ts": "2026-09-21T21:06:40.200+0800"
+    }
+  ]
+}
