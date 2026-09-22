@@ -22,4 +22,4 @@ EMP2026/
 
 Sync is additive: new runs are created; existing files are not deleted.
 
-Latest sync: `EMP2026/Week_05/transcriptomics/weekly/runs/2026-09-21T13-07-45-545Z-3mrt4q` (run `2026-09-21T13-07-45-545Z-3mrt4q`)
+Latest sync: `EMP2026/Week_05/microbiome_16s/weekly/runs/2026-09-22T03-16-29-421Z-yzod1g` (run `2026-09-22T03-16-29-421Z-yzod1g`)
